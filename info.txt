@@ -1,1 +1,2 @@
+another change
 This is a change in the  message to amend in the previous commit
