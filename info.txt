@@ -1,1 +1,1 @@
-This is a critical message to amend in the previous commit
+This is a change in the  message to amend in the previous commit
