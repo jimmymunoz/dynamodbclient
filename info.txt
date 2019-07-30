@@ -23,3 +23,7 @@ Commit #6 squash activity
 Commit #7 squash activity
 
 Commit #8 squash activity
+
+Commit dev2
+
+Commit dev2 2
