@@ -25,3 +25,7 @@ Commit #7 squash activity
 Commit #8 squash activity
 
 reset change
+=======
+Commit dev2
+
+Commit dev2 2
