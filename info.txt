@@ -27,3 +27,5 @@ Commit #8 squash activity
 Commit dev2
 
 Commit dev2 2
+
+Commit #18 squash local commit
