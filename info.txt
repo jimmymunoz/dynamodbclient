@@ -38,4 +38,7 @@ Commit #20 squash local commit 3
 
 Commit #21 squash local commit 3
 
+Commit #22 - Cherry pick demo
+\nCommit #23 - Cherry pick demo commit 2
+
 No more commits
