@@ -29,3 +29,9 @@ Commit dev2
 Commit dev2 2
 
 Commit #18 squash local commit
+
+Commit #19 squash local commit 2
+
+Commit #20 squash local commit 3
+
+Commit #21 squash local commit 3
